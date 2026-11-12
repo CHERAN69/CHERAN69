@@ -1,7 +1,7 @@
 ## Hi, I'm Cheran 👋
 
 **Product strategy & product development | Compliance & GRC**
-MS in Information Technology & Management @ UT Dallas (Aug 2027) · Dallas–Fort Worth
+MS in Information Technology & Management @ UT Dallas (Dec 2027) · Dallas–Fort Worth
 
 I build products where trust matters, bringing a product lens and a compliance lens (NIST CSF, ISO 27001, SOC 2, GDPR) to everything I ship.
 
